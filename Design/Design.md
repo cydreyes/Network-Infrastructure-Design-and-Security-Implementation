@@ -88,7 +88,7 @@ Ensure all devices can communicate with each other, verifying proper network con
 - New network devices can be seamlessly integrated into the existing OSPF topology.
 - Enhances fault tolerance and overall network resilience.
 ### IPv6 Implementation
--Ensures future compatibility and readiness for IPv6 adoption.
+- Ensures future compatibility and readiness for IPv6 adoption.
 - Mitigates the risk of IP address exhaustion, supporting long-term network sustainability.
 
 
