@@ -3,7 +3,7 @@
 ## Objective
 
 
-The Network Security Design and Implementation project focused on designing, configuring, and securing a hierarchical network infrastructure using Cisco Packet Tracer. The project aimed to establish a scalable network with OSPF routing, VLAN segmentation, and redundancy while incorporating security controls such as ACLs, NAT, and SSH. This hands-on experience enhanced understanding of network architecture, security hardening, and traffic analysis.
+The Network Security Design and Implementation project focused on designing, configuring, and securing a hierarchical network infrastructure for a small travel agency using Cisco Packet Tracer. The project aimed to establish a scalable network with OSPF routing, VLAN segmentation, and redundancy while incorporating security controls such as ACLs, NAT, and SSH. This hands-on experience enhanced understanding of network architecture, security hardening, and traffic analysis.
 
 ### Skills Learned
 
