@@ -1,10 +1,11 @@
 ### Devices
+___
 - 4 PCs
 - 3 Cisco 2960 Switches
 - 3 Cisco 2911 Routers
 
 ### Logical Design
-
+___
 
 ### Router A:
 - GigabitEthernet0/0 connects to Switch A on port 
@@ -37,7 +38,7 @@ GigabitEthernet0/0.
 
 ### Configurations
 
-
+___
 
 ### OSPF (Open Shortest Path First):
 - Implemented across all three routers to enable dynamic routing
@@ -67,6 +68,7 @@ security
 - Ensure secure management access through user authentication and encryption
 
 ### Test 1: Connectivity Validation
+___
 ### Objective: 
 Ensure all devices can communicate with each other, verifying proper network connectivity.
 
@@ -79,6 +81,7 @@ Ensure all devices can communicate with each other, verifying proper network con
 - All devices should return successful ping responses, confirming proper network connectivity and functionality.
 
 ### Scalability and Future Expansion
+___
 ### Scalable VLANs
 - Enables logical network segmentation for improved traffic management and security.
 - Supports seamless expansion as new departments or devices are added.
